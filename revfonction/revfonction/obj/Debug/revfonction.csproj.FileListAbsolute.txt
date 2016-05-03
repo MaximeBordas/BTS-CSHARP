@@ -1,0 +1,6 @@
+c:\users\maxime\documents\visual studio 2015\Projects\revfonction\revfonction\bin\Debug\revfonction.exe.config
+c:\users\maxime\documents\visual studio 2015\Projects\revfonction\revfonction\bin\Debug\revfonction.exe
+c:\users\maxime\documents\visual studio 2015\Projects\revfonction\revfonction\bin\Debug\revfonction.pdb
+c:\users\maxime\documents\visual studio 2015\Projects\revfonction\revfonction\obj\Debug\revfonction.csprojResolveAssemblyReference.cache
+c:\users\maxime\documents\visual studio 2015\Projects\revfonction\revfonction\obj\Debug\revfonction.exe
+c:\users\maxime\documents\visual studio 2015\Projects\revfonction\revfonction\obj\Debug\revfonction.pdb

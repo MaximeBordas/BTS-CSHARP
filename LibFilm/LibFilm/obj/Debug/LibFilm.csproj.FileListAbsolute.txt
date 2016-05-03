@@ -1,0 +1,5 @@
+c:\users\maxime\documents\visual studio 2015\Projects\LibFilm\LibFilm\bin\Debug\LibFilm.dll
+c:\users\maxime\documents\visual studio 2015\Projects\LibFilm\LibFilm\bin\Debug\LibFilm.pdb
+c:\users\maxime\documents\visual studio 2015\Projects\LibFilm\LibFilm\obj\Debug\LibFilm.csprojResolveAssemblyReference.cache
+c:\users\maxime\documents\visual studio 2015\Projects\LibFilm\LibFilm\obj\Debug\LibFilm.dll
+c:\users\maxime\documents\visual studio 2015\Projects\LibFilm\LibFilm\obj\Debug\LibFilm.pdb

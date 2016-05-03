@@ -1,0 +1,8 @@
+c:\users\maxime\documents\visual studio 2015\Projects\TPGestionCrosisiere\TPGestionCrosisiere\bin\Debug\TPGestionCrosisiere.exe.config
+c:\users\maxime\documents\visual studio 2015\Projects\TPGestionCrosisiere\TPGestionCrosisiere\bin\Debug\TPGestionCrosisiere.exe
+c:\users\maxime\documents\visual studio 2015\Projects\TPGestionCrosisiere\TPGestionCrosisiere\bin\Debug\TPGestionCrosisiere.pdb
+c:\users\maxime\documents\visual studio 2015\Projects\TPGestionCrosisiere\TPGestionCrosisiere\bin\Debug\LibCroisiere.dll
+c:\users\maxime\documents\visual studio 2015\Projects\TPGestionCrosisiere\TPGestionCrosisiere\bin\Debug\LibCroisiere.pdb
+c:\users\maxime\documents\visual studio 2015\Projects\TPGestionCrosisiere\TPGestionCrosisiere\obj\Debug\TPGestionCrosisiere.csprojResolveAssemblyReference.cache
+c:\users\maxime\documents\visual studio 2015\Projects\TPGestionCrosisiere\TPGestionCrosisiere\obj\Debug\TPGestionCrosisiere.exe
+c:\users\maxime\documents\visual studio 2015\Projects\TPGestionCrosisiere\TPGestionCrosisiere\obj\Debug\TPGestionCrosisiere.pdb

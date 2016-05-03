@@ -1,0 +1,6 @@
+c:\users\maxime\documents\visual studio 2015\Projects\Tp10Exo1\Tp10Exo1\bin\Debug\Tp10Exo1.exe.config
+c:\users\maxime\documents\visual studio 2015\Projects\Tp10Exo1\Tp10Exo1\bin\Debug\Tp10Exo1.exe
+c:\users\maxime\documents\visual studio 2015\Projects\Tp10Exo1\Tp10Exo1\bin\Debug\Tp10Exo1.pdb
+c:\users\maxime\documents\visual studio 2015\Projects\Tp10Exo1\Tp10Exo1\obj\Debug\Tp10Exo1.csprojResolveAssemblyReference.cache
+c:\users\maxime\documents\visual studio 2015\Projects\Tp10Exo1\Tp10Exo1\obj\Debug\Tp10Exo1.exe
+c:\users\maxime\documents\visual studio 2015\Projects\Tp10Exo1\Tp10Exo1\obj\Debug\Tp10Exo1.pdb

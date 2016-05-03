@@ -1,0 +1,7 @@
+c:\users\maxime\documents\visual studio 2015\Projects\TP6AMIAOU\TP6AMIAOU\bin\Debug\TP6AMIAOU.exe.config
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\TP6AMIAOU\bin\Debug\TP6AMIAOU.exe.config
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\TP6AMIAOU\bin\Debug\TP6AMIAOU.exe
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\TP6AMIAOU\bin\Debug\TP6AMIAOU.pdb
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\TP6AMIAOU\obj\Debug\TP6AMIAOU.csprojResolveAssemblyReference.cache
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\TP6AMIAOU\obj\Debug\TP6AMIAOU.exe
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\TP6AMIAOU\obj\Debug\TP6AMIAOU.pdb

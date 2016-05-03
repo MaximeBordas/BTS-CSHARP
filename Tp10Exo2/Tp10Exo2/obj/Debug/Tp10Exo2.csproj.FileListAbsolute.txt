@@ -1,0 +1,6 @@
+c:\users\maxime\documents\visual studio 2015\Projects\Tp10Exo2\Tp10Exo2\bin\Debug\Tp10Exo2.exe.config
+c:\users\maxime\documents\visual studio 2015\Projects\Tp10Exo2\Tp10Exo2\bin\Debug\Tp10Exo2.exe
+c:\users\maxime\documents\visual studio 2015\Projects\Tp10Exo2\Tp10Exo2\bin\Debug\Tp10Exo2.pdb
+c:\users\maxime\documents\visual studio 2015\Projects\Tp10Exo2\Tp10Exo2\obj\Debug\Tp10Exo2.exe
+c:\users\maxime\documents\visual studio 2015\Projects\Tp10Exo2\Tp10Exo2\obj\Debug\Tp10Exo2.pdb
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\Tp10Exo2\Tp10Exo2\obj\Debug\Tp10Exo2.csprojResolveAssemblyReference.cache

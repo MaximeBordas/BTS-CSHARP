@@ -1,0 +1,10 @@
+\\serveur01\focquet\Travail\Visual Studio 2010\Projects\analyse_de_CA\analyse_de_CA\obj\x86\Debug\ResolveAssemblyReference.cache
+\\serveur01\focquet\Travail\Visual Studio 2010\Projects\analyse_de_CA\analyse_de_CA\bin\Debug\analyse_de_CA.exe
+\\serveur01\focquet\Travail\Visual Studio 2010\Projects\analyse_de_CA\analyse_de_CA\bin\Debug\analyse_de_CA.pdb
+\\serveur01\focquet\Travail\Visual Studio 2010\Projects\analyse_de_CA\analyse_de_CA\obj\x86\Debug\analyse_de_CA.exe
+\\serveur01\focquet\Travail\Visual Studio 2010\Projects\analyse_de_CA\analyse_de_CA\obj\x86\Debug\analyse_de_CA.pdb
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\analyse_de_CA\analyse_de_CA\obj\x86\Debug\analyse_de_CA.exe
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\analyse_de_CA\analyse_de_CA\obj\x86\Debug\analyse_de_CA.pdb
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\analyse_de_CA\analyse_de_CA\bin\Debug\analyse_de_CA.exe
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\analyse_de_CA\analyse_de_CA\bin\Debug\analyse_de_CA.pdb
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\analyse_de_CA\analyse_de_CA\obj\x86\Debug\analyse_de_CA.csprojResolveAssemblyReference.cache

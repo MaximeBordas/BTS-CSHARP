@@ -1,0 +1,8 @@
+c:\users\maxime\documents\visual studio 2015\Projects\TpGestionFilm\TpGestionFilm\bin\Debug\TpGestionFilm.exe.config
+c:\users\maxime\documents\visual studio 2015\Projects\TpGestionFilm\TpGestionFilm\bin\Debug\TpGestionFilm.exe
+c:\users\maxime\documents\visual studio 2015\Projects\TpGestionFilm\TpGestionFilm\bin\Debug\TpGestionFilm.pdb
+c:\users\maxime\documents\visual studio 2015\Projects\TpGestionFilm\TpGestionFilm\bin\Debug\LibFilm.dll
+c:\users\maxime\documents\visual studio 2015\Projects\TpGestionFilm\TpGestionFilm\bin\Debug\LibFilm.pdb
+c:\users\maxime\documents\visual studio 2015\Projects\TpGestionFilm\TpGestionFilm\obj\Debug\TpGestionFilm.csprojResolveAssemblyReference.cache
+c:\users\maxime\documents\visual studio 2015\Projects\TpGestionFilm\TpGestionFilm\obj\Debug\TpGestionFilm.exe
+c:\users\maxime\documents\visual studio 2015\Projects\TpGestionFilm\TpGestionFilm\obj\Debug\TpGestionFilm.pdb

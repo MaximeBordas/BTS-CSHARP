@@ -1,0 +1,6 @@
+c:\users\maxime\documents\visual studio 2015\Projects\Tpmaisonconstuct\Tpmaisonconstuct\bin\Debug\Tpmaisonconstuct.exe.config
+c:\users\maxime\documents\visual studio 2015\Projects\Tpmaisonconstuct\Tpmaisonconstuct\obj\Debug\Tpmaisonconstuct.csprojResolveAssemblyReference.cache
+c:\users\maxime\documents\visual studio 2015\Projects\Tpmaisonconstuct\Tpmaisonconstuct\bin\Debug\Tpmaisonconstuct.exe
+c:\users\maxime\documents\visual studio 2015\Projects\Tpmaisonconstuct\Tpmaisonconstuct\bin\Debug\Tpmaisonconstuct.pdb
+c:\users\maxime\documents\visual studio 2015\Projects\Tpmaisonconstuct\Tpmaisonconstuct\obj\Debug\Tpmaisonconstuct.exe
+c:\users\maxime\documents\visual studio 2015\Projects\Tpmaisonconstuct\Tpmaisonconstuct\obj\Debug\Tpmaisonconstuct.pdb

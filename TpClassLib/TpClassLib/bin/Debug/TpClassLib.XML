@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TpClassLib</name>
+    </assembly>
+    <members>
+        <member name="M:TpClassLib.saisie.SaisieNumerique(System.String,System.Int32@)">
+            <summary>
+            Permet la saisie d'une information de type entier sans controle de saisie
+            </summary>
+            <param name="msgInfo">message d'information indiquant la nature de la valeur a saisir</param>
+            <param name="valRetournee">valeur saisie convertie en type entier</param>
+        </member>
+        <member name="M:TpClassLib.saisie.SaisieNumerique(System.String,System.Single@)">
+            <summary>
+            Permet la saisie d'une information de type float sans controle de saisie
+            </summary>
+            <param name="msgInfo">message d'information indiquant la nature de la valeur a saisir</param>
+            <param name="valRetournee">valeur saisie convertie en type float</param>
+        </member>
+        <member name="M:TpClassLib.saisie.SaisieNumerique(System.String,System.String,System.Int32@)">
+            <summary>
+            Permet la saisie d'une information de type entier avec controle de saisie
+            </summary>
+            <param name="msgInfo">message d'information indiquant la nature de la valeur a saisir</param>
+            <param name="msgErreur">message d'erreur en cas de mauvaise saisie de l'uttilisateur</param>
+            <param name="valRetournee">valeur saisie convertie en type entier</param>
+        </member>
+        <member name="M:TpClassLib.saisie.SaisieNumerique(System.String,System.String,System.Single@)">
+            <summary>
+            Permet la saisie d'une information de type float avec controle de saisie
+            </summary>
+            <param name="msgInfo">message d'information indiquant la nature de la valeur a saisir</param>
+            <param name="msgErreur">message d'erreur en cas de mauvaise saisie de l'uttilisateur</param>
+            <param name="valRetournee">valeur saisie convertie en type float</param>
+        </member>
+        <member name="M:TpClassLib.saisie.SaisieNumerique(System.String,System.String,System.Int32,System.Int32@)">
+            <summary>
+            Permet la saisie d'une information de type int avec controle de saisie avec une borne definie par l'uttilisateur
+            </summary>
+            <param name="msgInfo">message d'information indiquant la nature de la valeur a saisir</param>
+            <param name="msgErreur">message d'erreur en cas de mauvaise saisie de l'uttilisateur</param>
+            <param name="borneInf">borne renseigner par l'uttilisateur</param>
+            <param name="valRetournee">valeur saisie convertie en type entier</param>
+        </member>
+        <member name="M:TpClassLib.saisie.SaisieNumerique(System.String,System.String,System.Single,System.Single@)">
+            <summary>
+            Permet la saisie d'une information de type float avec controle de saisie avec une borne definie par l'uttilisateur
+            </summary>
+            <param name="msgInfo">message d'information indiquant la nature de la valeur a saisir</param>
+            <param name="msgErreur">message d'erreur en cas de mauvaise saisie de l'uttilisateur</param>
+            <param name="borneInf">borne renseigner par l'uttilisateur</param>
+            <param name="valRetournee">valeur saisie convertie en type float</param>
+        </member>
+        <member name="M:TpClassLib.saisie.SaisieNumerique(System.String,System.String,System.Int32,System.Int32,System.Int32@)">
+            <summary>
+            Permet la saisie d'une information de type int avec controle de saisie avec une borne pour  definir le debut par l'uttilisateur et l'autre borne pour le maximal
+            </summary>
+            <param name="msgInfo">message d'information indiquant la nature de la valeur a saisir</param>
+            <param name="msgErreur">message d'erreur en cas de mauvaise saisie de l'uttilisateur</param>
+            <param name="borneInf">borne renseigner par l'uttilisateur</param>
+            <param name="borneSup">borne de la valeur maximale qui doit etre atteinte</param>
+            <param name="valRetournee">valeur saisie convertie en type int</param>
+        </member>
+        <member name="M:TpClassLib.saisie.SaisieNumerique(System.String,System.String,System.Single,System.Single,System.Single@)">
+            <summary>
+            Permet la saisie d'une information de type float avec controle de saisie avec une borne pour  definir le debut par l'uttilisateur et l'autre borne pour le maximal
+            </summary>
+            <param name="msgInfo">message d'information indiquant la nature de la valeur a saisir</param>
+            <param name="msgErreur">message d'erreur en cas de mauvaise saisie de l'uttilisateur</param>
+            <param name="borneInf">borne renseigner par l'uttilisateur</param>
+            <param name="borneSup">borne de la valeur maximale qui doit etre atteinte</param>
+            <param name="valRetournee">valeur saisie convertie en type float</param>
+        </member>
+    </members>
+</doc>

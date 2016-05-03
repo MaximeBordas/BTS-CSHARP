@@ -1,0 +1,6 @@
+c:\users\maxime\documents\visual studio 2015\Projects\tp4opti\tp4opti\bin\Debug\tp4opti.exe.config
+c:\users\maxime\documents\visual studio 2015\Projects\tp4opti\tp4opti\bin\Debug\tp4opti.exe
+c:\users\maxime\documents\visual studio 2015\Projects\tp4opti\tp4opti\bin\Debug\tp4opti.pdb
+c:\users\maxime\documents\visual studio 2015\Projects\tp4opti\tp4opti\obj\Debug\tp4opti.csprojResolveAssemblyReference.cache
+c:\users\maxime\documents\visual studio 2015\Projects\tp4opti\tp4opti\obj\Debug\tp4opti.exe
+c:\users\maxime\documents\visual studio 2015\Projects\tp4opti\tp4opti\obj\Debug\tp4opti.pdb

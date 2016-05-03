@@ -1,0 +1,6 @@
+c:\users\maxime\documents\visual studio 2015\Projects\ft_print_alphabet\ft_print_alphabet\bin\Debug\ft_print_alphabet.exe.config
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\ft_print_alphabet\ft_print_alphabet\obj\Debug\ft_print_alphabet.csprojResolveAssemblyReference.cache
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\ft_print_alphabet\ft_print_alphabet\bin\Debug\ft_print_alphabet.exe
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\ft_print_alphabet\ft_print_alphabet\bin\Debug\ft_print_alphabet.pdb
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\ft_print_alphabet\ft_print_alphabet\obj\Debug\ft_print_alphabet.exe
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\ft_print_alphabet\ft_print_alphabet\obj\Debug\ft_print_alphabet.pdb

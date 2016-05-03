@@ -1,0 +1,5 @@
+c:\users\maxime\documents\visual studio 2015\Projects\LibCroisiere\LibCroisiere\bin\Debug\LibCroisiere.dll
+c:\users\maxime\documents\visual studio 2015\Projects\LibCroisiere\LibCroisiere\bin\Debug\LibCroisiere.pdb
+c:\users\maxime\documents\visual studio 2015\Projects\LibCroisiere\LibCroisiere\obj\Debug\LibCroisiere.csprojResolveAssemblyReference.cache
+c:\users\maxime\documents\visual studio 2015\Projects\LibCroisiere\LibCroisiere\obj\Debug\LibCroisiere.dll
+c:\users\maxime\documents\visual studio 2015\Projects\LibCroisiere\LibCroisiere\obj\Debug\LibCroisiere.pdb

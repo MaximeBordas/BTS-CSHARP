@@ -1,0 +1,6 @@
+c:\users\maxime\documents\visual studio 2015\Projects\TpClassLib\TpClassLib\bin\Debug\TpClassLib.dll
+c:\users\maxime\documents\visual studio 2015\Projects\TpClassLib\TpClassLib\bin\Debug\TpClassLib.pdb
+c:\users\maxime\documents\visual studio 2015\Projects\TpClassLib\TpClassLib\obj\Debug\TpClassLib.csprojResolveAssemblyReference.cache
+c:\users\maxime\documents\visual studio 2015\Projects\TpClassLib\TpClassLib\obj\Debug\TpClassLib.dll
+c:\users\maxime\documents\visual studio 2015\Projects\TpClassLib\TpClassLib\obj\Debug\TpClassLib.pdb
+C:\Users\Maxime\documents\visual studio 2015\Projects\TpClassLib\TpClassLib\bin\Debug\TpClassLib.XML

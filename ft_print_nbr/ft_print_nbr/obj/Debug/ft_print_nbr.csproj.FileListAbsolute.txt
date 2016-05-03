@@ -1,0 +1,6 @@
+c:\users\maxime\documents\visual studio 2015\Projects\ft_print_nbr\ft_print_nbr\bin\Debug\ft_print_nbr.exe.config
+c:\users\maxime\documents\visual studio 2015\Projects\ft_print_nbr\ft_print_nbr\bin\Debug\ft_print_nbr.exe
+c:\users\maxime\documents\visual studio 2015\Projects\ft_print_nbr\ft_print_nbr\bin\Debug\ft_print_nbr.pdb
+c:\users\maxime\documents\visual studio 2015\Projects\ft_print_nbr\ft_print_nbr\obj\Debug\ft_print_nbr.exe
+c:\users\maxime\documents\visual studio 2015\Projects\ft_print_nbr\ft_print_nbr\obj\Debug\ft_print_nbr.pdb
+c:\users\maxime\documents\visual studio 2015\Projects\ft_print_nbr\ft_print_nbr\obj\Debug\ft_print_nbr.csprojResolveAssemblyReference.cache

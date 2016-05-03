@@ -1,0 +1,6 @@
+c:\users\maxime\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+c:\users\maxime\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+c:\users\maxime\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+c:\users\maxime\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+c:\users\maxime\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+c:\users\maxime\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb

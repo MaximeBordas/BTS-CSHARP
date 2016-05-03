@@ -1,0 +1,5 @@
+c:\users\maxime\documents\visual studio 2015\Projects\libRessHum\libRessHum\bin\Debug\libRessHum.dll
+c:\users\maxime\documents\visual studio 2015\Projects\libRessHum\libRessHum\bin\Debug\libRessHum.pdb
+c:\users\maxime\documents\visual studio 2015\Projects\libRessHum\libRessHum\obj\Debug\libRessHum.csprojResolveAssemblyReference.cache
+c:\users\maxime\documents\visual studio 2015\Projects\libRessHum\libRessHum\obj\Debug\libRessHum.dll
+c:\users\maxime\documents\visual studio 2015\Projects\libRessHum\libRessHum\obj\Debug\libRessHum.pdb

@@ -1,0 +1,5 @@
+C:\Users\Maxime\documents\visual studio 2015\Projects\Ch4Test\Ch4Test\bin\Debug\Ch4Test.dll
+C:\Users\Maxime\documents\visual studio 2015\Projects\Ch4Test\Ch4Test\bin\Debug\Ch4Test.pdb
+C:\Users\Maxime\documents\visual studio 2015\Projects\Ch4Test\Ch4Test\obj\Debug\Ch4Test.csprojResolveAssemblyReference.cache
+C:\Users\Maxime\documents\visual studio 2015\Projects\Ch4Test\Ch4Test\obj\Debug\Ch4Test.dll
+C:\Users\Maxime\documents\visual studio 2015\Projects\Ch4Test\Ch4Test\obj\Debug\Ch4Test.pdb

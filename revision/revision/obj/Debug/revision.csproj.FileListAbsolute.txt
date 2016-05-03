@@ -1,0 +1,6 @@
+c:\users\maxime\documents\visual studio 2015\Projects\revision\revision\bin\Debug\revision.exe.config
+c:\users\maxime\documents\visual studio 2015\Projects\revision\revision\bin\Debug\revision.exe
+c:\users\maxime\documents\visual studio 2015\Projects\revision\revision\bin\Debug\revision.pdb
+c:\users\maxime\documents\visual studio 2015\Projects\revision\revision\obj\Debug\revision.csprojResolveAssemblyReference.cache
+c:\users\maxime\documents\visual studio 2015\Projects\revision\revision\obj\Debug\revision.exe
+c:\users\maxime\documents\visual studio 2015\Projects\revision\revision\obj\Debug\revision.pdb

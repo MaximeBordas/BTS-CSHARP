@@ -1,0 +1,6 @@
+c:\users\maxime\documents\visual studio 2015\Projects\TP8\TP8\bin\Debug\TP8.exe.config
+c:\users\maxime\documents\visual studio 2015\Projects\TP8\TP8\obj\Debug\TP8.csprojResolveAssemblyReference.cache
+c:\users\maxime\documents\visual studio 2015\Projects\TP8\TP8\bin\Debug\TP8.exe
+c:\users\maxime\documents\visual studio 2015\Projects\TP8\TP8\bin\Debug\TP8.pdb
+c:\users\maxime\documents\visual studio 2015\Projects\TP8\TP8\obj\Debug\TP8.exe
+c:\users\maxime\documents\visual studio 2015\Projects\TP8\TP8\obj\Debug\TP8.pdb

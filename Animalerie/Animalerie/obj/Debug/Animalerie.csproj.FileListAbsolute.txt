@@ -1,0 +1,8 @@
+c:\users\maxime\documents\visual studio 2015\Projects\Animalerie\Animalerie\bin\Debug\Animalerie.exe.config
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\Animalerie\Animalerie\bin\Debug\Animalerie.exe
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\Animalerie\Animalerie\bin\Debug\Animalerie.pdb
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\Animalerie\Animalerie\bin\Debug\LibAnimalerie.dll
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\Animalerie\Animalerie\bin\Debug\LibAnimalerie.pdb
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\Animalerie\Animalerie\obj\Debug\Animalerie.csprojResolveAssemblyReference.cache
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\Animalerie\Animalerie\obj\Debug\Animalerie.exe
+C:\Users\Maxime\Documents\Visual Studio 2015\Projects\Animalerie\Animalerie\obj\Debug\Animalerie.pdb

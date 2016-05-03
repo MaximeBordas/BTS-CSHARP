@@ -1,0 +1,6 @@
+c:\users\maxime\documents\visual studio 2015\Projects\TP9_Note_et_CA\TP9_Note_et_CA\bin\Debug\TP9_Note_et_CA.exe.config
+c:\users\maxime\documents\visual studio 2015\Projects\TP9_Note_et_CA\TP9_Note_et_CA\obj\Debug\TP9_Note_et_CA.csprojResolveAssemblyReference.cache
+c:\users\maxime\documents\visual studio 2015\Projects\TP9_Note_et_CA\TP9_Note_et_CA\bin\Debug\TP9_Note_et_CA.exe
+c:\users\maxime\documents\visual studio 2015\Projects\TP9_Note_et_CA\TP9_Note_et_CA\bin\Debug\TP9_Note_et_CA.pdb
+c:\users\maxime\documents\visual studio 2015\Projects\TP9_Note_et_CA\TP9_Note_et_CA\obj\Debug\TP9_Note_et_CA.exe
+c:\users\maxime\documents\visual studio 2015\Projects\TP9_Note_et_CA\TP9_Note_et_CA\obj\Debug\TP9_Note_et_CA.pdb
